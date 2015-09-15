@@ -29,9 +29,7 @@ Copyright (c) 2015+ Oscar Riveros. All rights reserved. oscar.riveros@gmail.com
 Without any restriction, Oscar Riveros reserved rights, patents and
 commercialization of this knowledge and which derive directly from this work.
 
-http://mx-clojure.blogspot.cl
-
-http://independent.academia.edu/oarr
+http://maxtuno.github.io/Punk
 
 http://twitter.com/maxtuno
 
@@ -40,3 +38,9 @@ http://www.reverbnation.com/maxtuno
 http://soundcloud.com/maxtuno
 
 http://www.jango.com/music/Oscar+Riveros
+
+http://mx-clojure.blogspot.cl
+
+http://independent.academia.edu/oarr
+
+https://github.com/maxtuno/Phi
