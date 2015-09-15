@@ -14,7 +14,7 @@ The binaries included are for OS X, you need compile the files for you OS, for S
 
 TIP: Optimize Compilation Parameters
 
-![Punk](https://github.com/maxtuno/Punk/blob/master/logo.png)
+![Punk](http://raw.githubusercontent.com/maxtuno/Punk/master/logo.png)
 
 The license in simple terms, says that you can use freely, while respecting the authorship of the technology,
 and mention explicitly its author, when deal with commercial purposes, this includes universities and companies, 
