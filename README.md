@@ -14,6 +14,8 @@ The binaries included are for OS X, you need compile the files for you OS, for S
 
 TIP: Optimize Compilation Parameters
 
+![Bilby Stampede](http://example.com/images/logo.png)
+
 The license in simple terms, says that you can use freely, while respecting the authorship of the technology,
 and mention explicitly its author, when deal with commercial purposes, this includes universities and companies, 
 provided they have express permission of Oscar Riveros <oscar.riveros@gmail.com> for profit with this algorithm, technology and knowledge.
