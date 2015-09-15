@@ -88,7 +88,7 @@ alphabeth: a, b, c, d... 1, 2, 3... A, B, C... =)(... etc... (writhe on plain te
 
 kel, ker: try by yourself, but with 0, 0 is ok (a lot can be shortened with suitable values, time to resolution).
 
-algorithm: SHA3_224, HA3_256, HA3_384, HA3_512
+algorithm: SHA3_224, SHA3_256, SHA3_384, SHA3_512 (write only 224, 256, 384, 512)
 
 log: visual loging... 
 
