@@ -3,7 +3,7 @@
 
 Punk, It is a group of commands line tools, to solve Np-Complete & NP-Hard Easy, 
 they are founded, in the ABSTRACT BINARY SEARCH, 
-result of 2 years of research, on the universal theory of numbers,
+result of 2 years of research, on the universal theory of numbers.
 
 Punk-Research = Independent + Anarchist + Knowledge
 
@@ -14,7 +14,7 @@ The binaries included are for OS X, you need compile the files for you OS, for S
 
 TIP: Optimize Compilation Parameters
 
-![Punk](https://github.com/maxtuno/Punk/blob/master/logo.jpg)
+![Punk](logo.jpg)
 
 The license in simple terms, says that you can use freely, while respecting the authorship of the technology,
 and mention explicitly its author, when deal with commercial purposes, this includes universities and companies, 
@@ -28,3 +28,15 @@ EXPLICIT LICENCE
 Copyright (c) 2015+ Oscar Riveros. All rights reserved. oscar.riveros@gmail.com
 Without any restriction, Oscar Riveros reserved rights, patents and
 commercialization of this knowledge and which derive directly from this work.
+
+http://mx-clojure.blogspot.cl
+
+http://independent.academia.edu/oarr
+
+http://twitter.com/maxtuno
+
+http://www.reverbnation.com/maxtuno
+
+http://soundcloud.com/maxtuno
+
+http://www.jango.com/music/Oscar+Riveros
