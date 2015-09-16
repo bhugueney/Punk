@@ -93,3 +93,8 @@ algorithm: SHA3_224, SHA3_256, SHA3_384, SHA3_512 (write only 224, 256, 384, 512
 log: visual loging... 
 
 
+## PRIMALITY
+ 
+Badass primality test, include all the RESA numbers from wiki, for test.
+ 
+Usage: ./abs_primality numbers<path>
