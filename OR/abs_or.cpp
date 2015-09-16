@@ -42,7 +42,7 @@ std::vector<Int> ABS(std::vector<Int> U, std::vector<Int> T, Int zero, nInt mM) 
     std::vector<Int> S(U);
     std::vector<Int> C(U);
     Int i, j, k, d, n, e = 0;
-    Int m = iAbs(Sigma(U) + Sigma(S));
+    Int m = iAbs(Sigma(S)) - iAbs(Sigma(U));
     Int L = iPow(U.size(), U.size());
     Int l = iPow(U.size() - 1, U.size());
     while (k < L) {
@@ -53,7 +53,7 @@ std::vector<Int> ABS(std::vector<Int> U, std::vector<Int> T, Int zero, nInt mM) 
             cycles++;
             n = (i + j) / 2;
             S = nPhi(U, T, n + e);
-            d = iAbs(Sigma(U) + Sigma(S));
+            d = iAbs(Sigma(S)) - iAbs(Sigma(U));
             if (d == m) return C;
             if (d < zero) i = n + 1;
             if (d > zero) j = n;
@@ -61,9 +61,11 @@ std::vector<Int> ABS(std::vector<Int> U, std::vector<Int> T, Int zero, nInt mM) 
                 m = d;
                 C = S;
                 if (dbg) {
-                    std::cout << "<" << m << ">" << std::endl;
-                    for (auto u : C) std::cout << u << " ";
                     std::cout << std::endl;
+                    std::cout << "<" << iAbs(Sigma(U)) << " vs " << iAbs(Sigma(S)) << ">" << std::endl;
+                    std::cout << "[ ";
+                    for (auto u : S) std::cout << u << " ";
+                    std::cout << "]" << std::endl;
                 }
             }
             e++;
@@ -120,11 +122,11 @@ int main(int argc, char *argv[]) {
     auto S = ABS(U, T, zero, mM);
     end = std::chrono::system_clock::now();
 
-    if (!dbg) {
-        std::cout << "<" << iAbs(Sigma(U) + Sigma(S)) << ">" << std::endl;
-        for (auto u : S) std::cout << u << " ";
-        std::cout << std::endl;
-    }
+    std::cout << std::endl;
+    std::cout << "<" << iAbs(Sigma(U)) << " vs " << iAbs(Sigma(S)) << ">" << std::endl;
+    std::cout << "[ ";
+    for (auto u : S) std::cout << u << " ";
+    std::cout << "]" << std::endl;
 
     std::chrono::duration<double> seconds = end - start;
     std::cout << std::endl;
