@@ -94,6 +94,8 @@ log: visual loging...
 
 
 ## PRIMALITY
+
+Composite Number Problem
  
 Badass primality test, include all the RESA numbers from wiki, for test.
  
