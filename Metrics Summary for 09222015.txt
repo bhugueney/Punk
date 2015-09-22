@@ -3,32 +3,32 @@ Metrics Summary For Checkpoint 'Checkpoint1'
 
 Parameter				Value
 =========				=====
-Project Directory				Z:\Users\maxtuno\Dropbox\Punk\
-Project Name					Punk
-Checkpoint Name					Checkpoint1
-Created On						22 Sep 2015, 17:54:53
-Files							5
-Lines							622*
-Statements						558
+Project Directory			Z:\Users\maxtuno\Dropbox\Punk\
+Project Name				Punk
+Checkpoint Name				Checkpoint1
+Created On				22 Sep 2015, 17:54:53
+Files					5
+Lines					622*
+Statements				558
 Percent Branch Statements		17.0
 Percent Lines with Comments		0.0
-Classes Defined					1
-Methods Implemented per Class	2.00
-Average Statements per Method	1.5
+Classes Defined				1
+Methods Implemented per Class		2.00
+Average Statements per Method		1.5
 Line Number of Most Complex Function	{undefined}
-Name of Most Complex Function	ABS()
-Maximum Complexity				13*
-Line Number of Deepest Block	{undefined}
-Maximum Block Depth				6
-Average Block Depth				1.61
-Average Complexity				4.88*
-Functions						23
+Name of Most Complex Function		ABS()
+Maximum Complexity			13*
+Line Number of Deepest Block		{undefined}
+Maximum Block Depth			6
+Average Block Depth			1.61
+Average Complexity			4.88*
+Functions				23
 
 --------------------------------------------------------------------------------------------
 Functions and Methods in 1 Class(es):	Complexity, Statements, Max Depth, Calls
 
-ABS()									13*, 41, 5, 35
-HexToInt::operator>>()					1*, 2, 2, 0
+ABS()					13*, 41, 5, 35
+HexToInt::operator>>()			1*, 2, 2, 0
 
 --------------------------------------------------------------------------------------------
 Block Depth				Statements
