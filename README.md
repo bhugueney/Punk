@@ -7,6 +7,9 @@ result of 2 years of research, on the universal theory of numbers.
 
 Punk-Research = Independent + Anarchist + Knowledge
 
+(Also Visit: Research for Supercomputing on Standard Machines
+https://github.com/maxtuno/Etudes-on-Supercomputing)
+
 About Me: <Oscar Riveros> 
 I'm just what time...
 
