@@ -52,7 +52,7 @@ https://github.com/maxtuno/Phi
 
 (See the examples on bin folder for each tool.)
 
-## SSP
+## SSP & SSP_CLUSTER
 
 Subset Sum Problem
 
@@ -100,6 +100,6 @@ log: visual loging...
 
 Composite Number Problem
  
-Badass primality test, include all the RESA numbers from wiki, for test.
+Badass primality test, include all the RSA numbers from wiki, for test.
  
 Usage: ./abs_primality numbers<path>
