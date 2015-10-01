@@ -138,6 +138,7 @@ int main(int argc, char *argv[]) {
     end = std::chrono::system_clock::now();
 
     if (!S.empty()) {
+
         std::cout << std::endl;
         std::cout << "(<" << Sigma(S) << ", " << Sigma(U) - Sigma(S) << ">, [ ";
         for (auto u : S) std::cout << u << " ";
