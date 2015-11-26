@@ -3,7 +3,9 @@
 
 Punk, It is a group of commands line tools, to solve Np-Complete & NP-Hard Problems Easy, 
 they are founded, in the ABSTRACT BINARY SEARCH, 
-result of 2 years of research, on the universal theory of numbers.
+result of 2 years of research, on the universal theory of numbers. 
+
+See ABS in Action https://www.youtube.com/watch?v=NlkiWQ9QNBo
 
 Punk-Research = Independent + Anarchist + Knowledge
 
