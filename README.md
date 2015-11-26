@@ -7,6 +7,8 @@ result of 2 years of research, on the universal theory of numbers.
 
 See ABS in Action https://www.youtube.com/watch?v=NlkiWQ9QNBo
 
+SHA-3 Cracker https://www.youtube.com/watch?v=-bLZLZBDavo
+
 Punk-Research = Independent + Anarchist + Knowledge
 
 (Also Visit: Research for Supercomputing on Standard Machines
